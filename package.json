@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.1",
+  "description": "Manage Requests",
+  "main": "obfuscated.js",
+  "scripts": {
+    "start": "node obfuscated.js"
+  },
+  "author": "Dante",
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.12"
+  }
+}
