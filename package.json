@@ -2,9 +2,9 @@
   "name": "test",
   "version": "1.0.1",
   "description": "Manage Requests",
-  "main": "obfuscated.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node obfuscated.js"
+    "start": "node index.js"
   },
   "author": "Dante",
   "engines": {
